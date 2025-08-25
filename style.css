@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    background-color: #000000;
+}
+
+
+.header {
+    margin: 0 60px;
+    background-color: #ffffff;
+    min-width: 680px;
+    min-height: 680px;
+
+}
+
+.main {
+    margin: 0 60px;
+    background-color: #0011ff;
+    min-width: 680px;
+    min-height: 680px;
+}
+
+.footer {
+    margin: 0 60px;
+    background-color: #ff0303;
+    min-height: 680px;
+    min-width: 680px;
+}
